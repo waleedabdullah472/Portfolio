@@ -60,7 +60,7 @@ const Work = () => {
                   </div>
                 </div>
                 <h4>Tools and features</h4>
-                <p>Javascript, TypeScript, React, Threejs</p>
+                <p>Javascript, TypeScript,, React, Threejs</p>
               </div>
               <WorkImage image="mysql.webp" alt="" />
             </div>
